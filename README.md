@@ -1,3 +1,4 @@
+
 # npm Code-Along
 
 ## Learning Goals
@@ -201,7 +202,7 @@ Then we'll add one more script to run the build:
 "scripts": {
   "test": "echo 'Hello World!'",
   "start": "serve",
-  "build": "esbuild index.js --bundle --outfile=dist/out.js"
+  
 }
 ```
 
